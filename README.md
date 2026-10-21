@@ -1,10 +1,7 @@
 # Lab-Github-testing
-just an experiment
-HI I'm Zariff Azam
-Nasyat was here
 Group member:
-Luqman
-Nasyat
-Zariff
-Rasyid
-Farhan
+- Zariff Azam
+- Nasyat Nasir
+- Luqman Azmi
+- Rasyid Ghani
+- Farhan Hariri
